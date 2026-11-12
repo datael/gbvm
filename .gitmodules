@@ -1,0 +1,3 @@
+[submodule "third-party/musyx"]
+	path = third-party/musyx
+	url = https://github.com/datael/musyx.git
